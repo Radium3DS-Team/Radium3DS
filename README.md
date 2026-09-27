@@ -1,4 +1,4 @@
-                                        # Radium3DS CFW
+   # Radium3DS CFW
 An upcoming fork of Luma3DS that heavily modifies V13.0 and adds features specifically for the "New" line of consoles. 
 
 ### **Note:** Radium3DS is strictly exclusive to the "New" line of consoles right now (which is why some internal assets call it "NewLuma"). 
