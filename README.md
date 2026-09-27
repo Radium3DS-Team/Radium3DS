@@ -53,11 +53,12 @@ Debug info -- self explanatory
 
 System info -- tells you if you have tn or ips
 
+**Thats all for now, because this is just for the first beta version; more will be added.**
+
 ## **Another Note**
 
 The master branch is a bit messy because i dont know how to get rid of the OG luma commits
 
-**Thats all for now, because this is just for the first beta version; more will be added.**
 ## **Release Date:** 
 
 NOW
