@@ -55,6 +55,6 @@ System info -- tells you if you have tn or ips
 **Thats all for now, because this is just for the first beta version; more will be added.**
 ## **Release Date:** 
 
-all I can say is, very soon. very.
+NOW
 
 
