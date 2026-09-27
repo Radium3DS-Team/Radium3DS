@@ -24,8 +24,8 @@ then turn off  your 3ds, and boot it back up while holding D-Pad Up. If it goes 
 
 ### **Things to know (Installation):**
 If a black screen pops up and you DO NOT have a old 3ds, please dm gg.kit on discord.
-If a black screen pops up and gg.kit CANNOT fix the issue: Resort back to luma: open up the radium (luma) menu, and check the 'Boot vanilla luma' box to temporarily boot you back into luma (until you go back into radium menu.)
-this will boot you into Vanilla Luma, and reinsert your SD card, and go to Universal updater and download the Luma Boot.firm
+If a black screen pops up and gg.kit CANNOT fix the issue: Resort back to luma: open up the radium (luma) menu, and check the 'Boot vanilla luma' box to temporarily boot you back into luma (until you go back into radium menu. 
+this will boot you into Lumas3DS as normal. This is for troubleshootinng
 
 Another thing:
 Radium uses an installation method I call "Partial Install" a Partial Install
