@@ -12,7 +12,7 @@ Even if I DO release one for the old 3ds, itll probably only be for the old 2ds 
 
 ## **Things to know:**
 
-Rosalina menu (In Radium is renamed to Infa9 Menu) is opened by *C stick up + L + D-Pad Down*.
+Rosalina menu is opened by L + Select (can use the orginal L, down, and select too)
 Luma Menu when booting up (Now Radium Menu) is opened up by pressing D-Pad Up when starting.
 
 ## **How to Get Radium3DS**
@@ -23,7 +23,7 @@ then turn off  your 3ds, and boot it back up while holding D-Pad Up. If it goes 
 
 ### **Things to know (Installation):**
 If a black screen pops up and you DO NOT have a old 3ds, please dm gg.kit on discord.
-If a black screen pops up and gg.kit CANNOT fix the issue: Resort back to luma: take the SD card out, and Boot up without it. 
+If a black screen pops up and gg.kit CANNOT fix the issue: Resort back to luma: open up the radium (luma) menu, and check the 'Boot vanilla luma' box to temporarily boot you back into luma (until you go back into radium menu.)
 this will boot you into Vanilla Luma, and reinsert your SD card, and go to Universal updater and download the Luma Boot.firm
 
 Another thing:
@@ -36,14 +36,25 @@ will boot into Vanilla Luma once again.
 Radium fully utlizes the "New" 3DS capabilities. Thats its whole purpose at the moment
 Radium3DS:
 
-Wifi-to-pc-streaming: In Rosalina (Infa9) there is a new option named "Streaming" and this allows
-you to basically stream your 3ds screen to your PC like NTR CFW does, except its built into Infa9 Menu.
+New 3DS Tab --
+input test menu
+remap buttons
+enable cpu clock/l2 cache per title
 
-Thats all for now, as Radium is still in VERY early making. There will be more features, thats just all I have FOR NOW.
+Task manager --
+view/end tasks
 
+Misc --
+max play coins to 300
+radium pulse light: on/off toggle
+
+Debug info -- self explanatory
+
+System info -- tells you if you have tn or ips
+
+**Thats all for now, because this is just for the first beta version; more will be added.**
 ## **Release Date:** 
 
-Radium3DS does not have a locked in release date, but I hope around December maybe? Oh well, See ya next time!
-
+all I can say is, very soon. very.
 
 
