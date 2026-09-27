@@ -46,7 +46,7 @@ Task manager --
 view/end tasks
 
 Misc --
-max play coins to 300
+max play coins to 300,
 radium pulse light: on/off toggle
 
 Debug info -- self explanatory
