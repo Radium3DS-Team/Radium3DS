@@ -20,5 +20,4 @@ exceptions/arm11/build
 .cproject
 .settings
 
-Luma3DS*.zip
-hbmenu.zip
+Radium3DS*.zip
