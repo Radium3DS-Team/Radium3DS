@@ -1,6 +1,9 @@
    # Radium3DS CFW
 
 An upcoming fork of Luma3DS that heavily modifies V13.0 and adds features specifically for the "New" line of consoles. 
+## **Discord**
+https://discord.gg/Nj4yWR2JRU
+
 
 ### **Note:** Radium3DS is strictly exclusive to the "New" line of consoles right now (which is why some internal assets call it "NewLuma"). 
 
@@ -9,7 +12,7 @@ I added a lockdown feature that will boot your 3DS into a completely black scree
 This was intentional. I know it's a Luma fork, so I HAVE to provide the source code to comply with the license. But hey, maybe be patient and one day I'll drop an official Old 3DS build (it's not actually that hard, I already made a custom copy for my friend's Zelda 3DS). 
 
 So, yeah. I'm lowkey just locking you out for fun. Sorry!
-Even if I DO release one for the old 3ds, itll probably only be for the old 2ds and old 3ds xl, cause the old 3ds sucks. Get a better console, maybe cry a bit and I'll give it as a reward.
+Even if I DO release one for the old 3ds, itll probably only be for the old 2ds and old 3ds xl, cause the old 3ds sucks. Get a better console, maybe cry a bit and I'll give it as a reward. (satire)
 
 ## **Things to know:**
 
