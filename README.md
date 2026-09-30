@@ -12,7 +12,7 @@ I added a lockdown feature that will boot your 3DS into a completely black scree
 This was intentional. I know it's a Luma fork, so I HAVE to provide the source code to comply with the license. But hey, maybe be patient and one day I'll drop an official Old 3DS build (it's not actually that hard, I already made a custom copy for my friend's Zelda 3DS). 
 
 So, yeah. I'm lowkey just locking you out for fun. Sorry!
-Even if I DO release one for the old 3ds, itll probably only be for the old 2ds and old 3ds xl, cause the old 3ds sucks. Get a better console, maybe cry a bit and I'll give it as a reward. (satire)
+Even if I DO release one for the old 3ds, itll probably only be for the old 2ds and old 3ds xl, cause the old 3ds sucks. Get a better console, maybe cry a bit and I'll give it as a reward. (this is satire)
 
 ## **Things to know:**
 
@@ -62,6 +62,23 @@ System info -- tells you if you have tn or ips
 
 The master branch is a bit messy because i dont know how to get rid of the OG luma commits
 
+Version Suffixes:
+~s (example: v14.0s)
+means its a stable release, no bugs
+known at date of release, heavily tested.
+
+~b (example: v14.0.1b)
+means its a beta release, mostly tested,
+but not a full day of testing like stable versions
+
+~a (example: v14.1.2a)
+
+NOT RECCOMENDED: EARLY BETA VERSION, NOT AS TESTED, EXPECT ERRORS, COMPLETELY EXPIREMENTAL
+
+Version Confusion: do not be
+confused if the latest version has a lower version then another: it simple means it is the highest version for a certain suffix. for example, 14.0.1 was the first beta, and the next stable suffix release with new features, will be 14.0
+
 ## **Release Date:** 
 
-NOW
+New 3DS: Already in early betas
+OLD 3DS: Early December 2026
